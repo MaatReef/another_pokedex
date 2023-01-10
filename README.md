@@ -1,4 +1,4 @@
-# React - Fundamentos
+# Javascript - Fundamentos
 
 
 ## Tecnologías Utilizadas:
